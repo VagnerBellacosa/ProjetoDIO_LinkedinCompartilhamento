@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-![Digital Innovation One: Compartilhe seu Certificado DIO no Linkedin ](WorkInProgress/Image/DioLinkedinShare.png "DIO Share Certificados no Linkedin")
+![Digital Innovation One: Compartilhe seu Certificado DIO no Linkedin ](WorkInProgress/Image/Dio_LinkedinShare.png "DIO Share Certificados no Linkedin")
 
 
 # Projeto DIO   
@@ -55,4 +55,4 @@ Obrigado
 [license-url]: https://github.com/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: WorkInProgress/Image/DioLinkedinShare.png  
+[product-screenshot]: WorkInProgress/Image/Dio_LinkedinShare.png  
