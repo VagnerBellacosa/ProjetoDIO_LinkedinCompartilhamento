@@ -49,15 +49,15 @@ Recebemos via email, um aviso sobre a conclusao do Curso com duas opçoes:
 - Adicionar Certificado no Linkedin
 - Efetuar o Download do Certificado
 
-![DIO_AdicionarLinkedin](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_AdicionarLinkedin.png)
+![DIO_AdicionarLinkedin](Image/DIO_AdicionarLinkedin.png)
 
 Ao clicar no botao azul
 
-![DIO_Bottom](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_Bottom.png)
+![DIO_Bottom](Image/DIO_Bottom.png)
 
 Abre nova aba no navegador web, que permitira preencher os dados no forumlario do Linkedin.
 
-![DIO_LinkedinDados](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_LinkedinDados.png)
+![DIO_LinkedinDados](Image/DIO_LinkedinDados.png)
 
 Esse processo é moroso, muitas vezes o usuario abandona a metade e nunca mais volta.
 
@@ -67,7 +67,7 @@ O objetivo deste projeto é otimizar esse acesso, importando os dados diretament
 
 Foi aberto ticket de auxilio no Linkedin e estou aguardando uma soluçao.
 
-![DIO_TiketAberto](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_TiketAberto.png)
+![DIO_TiketAberto](Image/DIO_TiketAberto.png)
 
 ## Publicando Certificado como Diploma
 
@@ -79,49 +79,49 @@ Existem outros caminhos para compartilhar o Certificado no Linkedin.
 
 ## Painel de Habilidades no Perfil Aluno DIO
 
-![DIO_PainelHabilidades](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_PainelHabilidades.png)
+![DIO_PainelHabilidades](Image/DIO_PainelHabilidades.png)
 
 
 
 No canto superior direito estara detalhes do aluno
 
-![DIO_Hearts](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_Hearts.png)
+![DIO_Hearts](Image/DIO_Hearts.png)
 
 Com um click na foto do aluno, surgira o menu suspenso
 
-![DIO_MeusCertificados](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_MeusCertificados.png)
+![DIO_MeusCertificados](Image/DIO_MeusCertificados.png)
 
 
 
 Ao clicar nos meus certificados, carregara uma pagina com todos os emitidos por aluno
 
-![DIO_CertificadoDownload](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_CertificadoDownload.png)
+![DIO_CertificadoDownload](Image/DIO_CertificadoDownload.png)
 
 Ao clicar no Botao Baixar Certificado
 
-<img src="C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\Btn_BaixarCertificado.png" alt="Btn_BaixarCertificado" style="zoom:75%;" />
+<img src="Image/Btn_BaixarCertificado.png" alt="Btn_BaixarCertificado" style="zoom:75%;" />
 
 Abrira uma pagina com a miniatura do certificado e um menu.
 
-![DIO_MenuCertificado](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_MenuCertificado.png)
+![DIO_MenuCertificado](Image/DIO_MenuCertificado.png)
 
 Diversas funcionalidades irao surgir, porem atemo-nos no Linkedin
 
-![DIO_CertificadoCompartilhar](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_CertificadoCompartilhar.png)
+![DIO_CertificadoCompartilhar](Image/DIO_CertificadoCompartilhar.png)
 
 
 
 Clique no botao Linkedin
 
-![DIO_BtnLinkedin](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_BtnLinkedin.png)
+![DIO_BtnLinkedin](Image/DIO_BtnLinkedin.png)
 
 Nesta funcionalidade o Certificado sera publicado no Linkedin como um artigo
 
-![DIO_LinkedinShareArtigo](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_LinkedinShareArtigo.png)
+![DIO_LinkedinShareArtigo](Image/DIO_LinkedinShareArtigo.png)
 
 Neste ponto, estamos na rede do Linkedin, necessitando o usuario ter uma conta e login com sucesso no navegador web.
 
-![Dio_LinkedinPost](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\Dio_LinkedinPost.png)
+![Dio_LinkedinPost](Image/Dio_LinkedinPost.png)
 
 Neste post é permitindo  incluir texto, usar hastag e marcar outras pessoas no formato @user
 
@@ -129,15 +129,15 @@ Neste post é permitindo  incluir texto, usar hastag e marcar outras pessoas no 
 
 Na pagina de usuario no Linkedin, na opçao editar perfil é possivel incluir manualmente os certificados.
 
-![DIO_LinkedinURL](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_LinkedinURL.png)
+![DIO_LinkedinURL](Image/DIO_LinkedinURL.png)
 
 Ao clicar no simbolo + , permite-se incluir novas certificaçoes 
 
-![DIO_LinkedinDados](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_LinkedinDados.png)
+![DIO_LinkedinDados](Image/DIO_LinkedinDados.png)
 
 clique no botao Save, e o registro sera incluido
 
-![Botao Save](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\LinkedIn_BtnSave.png)
+![Botao Save](Image/LinkedIn_BtnSave.png)
 
 Problema é ir certificado a certificado.  Nao vai rolar.
 
@@ -147,7 +147,7 @@ Problema é ir certificado a certificado.  Nao vai rolar.
 
 Incluir via url Dados do Certificado e Dados das Habilidades
 
-![DIO_LinkedinDados](C:\Workspace\bootcamps\ProjetoDIO_LinkedinCompartilhamento\WorkInProgress\Image\DIO_LinkedinSkills.png)
+![DIO_LinkedinDados](Image/DIO_LinkedinSkills.png)
 
 Variaveis a serem informadas : **Name**, **Organization**, **Issue Date**  Ano e Mes, **Credential ID**  e **Credential URL**
 
@@ -176,16 +176,16 @@ https://pt.linkedin.com/pulse/como-automatizar-o-envio-do-certificado-de-conclus
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/VagnerBellacosa/ProjetoDIO_BaseCampDIO.svg?style=for-the-badge
-[contributors-url]: https://github.com/VagnerBellacosa/ProjetoDIO_BaseCampDIO/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/VagnerBellacosa/ProjetoDIO_BaseCampDIO.svg?style=for-the-badge
-[forks-url]: https://github.com/VagnerBellacosa/ProjetoDIO_BaseCampDIO/network/members
-[stars-shield]: https://img.shields.io/github/stars/VagnerBellacosa/ProjetoDIO_BaseCampDIO.svg?style=for-the-badge
-[stars-url]: https://github.com/VagnerBellacosa/ProjetoDIO_BaseCampDIO/stargazers
-[issues-shield]: https://img.shields.io/github/issues/VagnerBellacosa/ProjetoDIO_BaseCampDIO.svg?style=for-the-badge
-[issues-url]: https://github.com/VagnerBellacosa/ProjetoDIO_BaseCampDIO/issues
-[license-shield]: https://img.shields.io/github/license/VagnerBellacosa/ProjetoDIO_BaseCampDIO.svg?style=for-the-badge
-[license-url]: https://github.com/VagnerBellacosa/ProjetoDIO_BaseCampDIO/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento.svg?style=for-the-badge
+[contributors-url]: https://github.com/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento.svg?style=for-the-badge
+[forks-url]: https://github.com/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento/network/members
+[stars-shield]: https://img.shields.io/github/stars/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento.svg?style=for-the-badge
+[stars-url]: https://github.com/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento/stargazers
+[issues-shield]: https://img.shields.io/github/issues/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento.svg?style=for-the-badge
+[issues-url]: https://github.com/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento/issues
+[license-shield]: https://img.shields.io/github/license/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento.svg?style=for-the-badge
+[license-url]: https://github.com/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
 [product-screenshot]: Image/LinkedinShare.png
