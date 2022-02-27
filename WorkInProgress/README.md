@@ -9,7 +9,7 @@
 
 
 <!-- PROJECT LOGO -->
-![Digital Innovation One: Compartilhe seu Certificado DIO no Linkedin ](Image/DioLinkedinShare.png "DIO Share Certificados no Linkedin")
+![Digital Innovation One: Compartilhe seu Certificado DIO no Linkedin ](Image/Dio_LinkedinShare.png "DIO Share Certificados no Linkedin")
 
 
 # Projeto DIO   
@@ -188,5 +188,5 @@ https://pt.linkedin.com/pulse/como-automatizar-o-envio-do-certificado-de-conclus
 [license-url]: https://github.com/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: Image/LinkedinShare.png
+[product-screenshot]: Image/Dio_LinkedinShare.png
 
