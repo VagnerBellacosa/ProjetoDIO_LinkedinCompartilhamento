@@ -141,7 +141,13 @@ clique no botao Save, e o registro sera incluido
 
 Problema é ir certificado a certificado.  Nao vai rolar.
 
+## Soluçao
 
+<div><a href="https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Test%20Certificate&organizationId=1337&issueYear=2018
+&issueMonth=2&expirationYear=2020&expirationMonth=5&certUrl=
+https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fd365-functional-consultant-sales&certId=1234"><img src="https://download.linkedin.com/desktop/add2profile/buttons/en_US.png " alt="LinkedIn Add to Profile button"></a></div>
+
+https://addtoprofile.linkedin.com/
 
 ## Processo Automatizado
 
@@ -188,5 +194,9 @@ https://pt.linkedin.com/pulse/como-automatizar-o-envio-do-certificado-de-conclus
 [license-url]: https://github.com/VagnerBellacosa/ProjetoDIO_LinkedinCompartilhamento/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
+<<<<<<< Updated upstream
 [product-screenshot]: Image/Dio_LinkedinShare.png
 
+=======
+[product-screenshot]: Image/Dio_LinkedinShare.png 
+>>>>>>> Stashed changes
