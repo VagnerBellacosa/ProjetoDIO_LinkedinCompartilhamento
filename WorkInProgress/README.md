@@ -9,34 +9,29 @@
 
 
 <!-- PROJECT LOGO -->
-![Digital Innovation One: Basecamp para Padawans](Image/BaseCampDIO.png "DIO Basecamp")
+![Digital Innovation One: Compartilhe seu Certificado DIO no Linkedin ](WorkInProgress/Image/DioLinkedinShare.png "DIO Share Certificados no Linkedin")
 
 
 # Projeto DIO   
 
 ![ArtigosDIO](Image/BaseCamp.png)
 
-## ProjetoDIO_BaseCampDIO  
+## ProjetoDIO_LinkedinCompartilhamento  
 
-Objetivo : Acolhimento aos padawans
+Objetivo : Facilitar a operaçao de compartilhamento de certificados DIO na Rede Social Linkedin, incluindo preenchimento automatico de campos, atalho na plataforma mais user friend.
 
 Em 23 de Fevereiro de 2021, iniciei minha jornada como aluno na Digital Innovation One
 
 Para comemorar este evento que mudou a minha vida. Apresento a proposta de Projeto.
 
-### BaseCamp meus primeiros passos na DIO
+### Easy Share Certificados no Linkediz
 
-Baseado em perguntas frequentes e dores constantes em nossa comunidade, escrevi uma serie de artigos, que pacientemente compartilho em todos os Bootcamps.
+Baseado na minha propria experiencia, dor no uso da funcionalidade e mais algumas postagens no nosso Forum da Comunidade com alguns Dionitos raivosos.
 
-Acredito que estou no limiar do SPAM, decididamente alguns Dionitos ficam chateados, mas prefiro pecar pelo excesso e repostar os topicos, afinal se alguem ler minha missao foi cumprida e o conhecimento repassado.
+Apresento um roteiro para facilitar a vida daqueles que desejam compartilhar certificados. Principalmente quando acumulamos algumas centenas deles. Fica dificil e vira uma bola de neve.
 
-Ao longo deste trabalho, irei desenvolver um roteiro para o BaseCamp.
+Necessita um estudo na API do Linkedin e ver a possibilidade desta inclusao.
 
- - [ 🏁  🏁  🏁  BASECAMP  🎩  Bem-vindo  📖  Aprenda  👨‍🏫  Evolua Na DIO  🕷  ️[👀]](🏁🏁🏁BASECAMP🎩Bem-vindo📖Aprenda👨‍🏫EvoluaNaDIO🕷️[👀].md)
-
-
-	- Publicaçao Original : 🚀 🏁 🏁 🏁 BASECAMP 🎩 Bem-vindo 📖 Aprenda 👨‍🏫 Evolua na DIO 🕷️ [👀]
-	- https://web.dio.me/articles/basecamp-bem-vindo-aprenda-evolua-na-dio
 
 ---
 
@@ -59,5 +54,5 @@ Ao longo deste trabalho, irei desenvolver um roteiro para o BaseCamp.
 [license-url]: https://github.com/VagnerBellacosa/ProjetoDIO_BaseCampDIO/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: Image/BaseCampDIO.png
+[product-screenshot]: Image/LinkedinShare.png
 
