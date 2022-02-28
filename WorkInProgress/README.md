@@ -147,7 +147,17 @@ Problema é ir certificado a certificado.  Nao vai rolar.
 &issueMonth=2&expirationYear=2020&expirationMonth=5&certUrl=
 https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fd365-functional-consultant-sales&certId=1234"><img src="https://download.linkedin.com/desktop/add2profile/buttons/en_US.png " alt="LinkedIn Add to Profile button"></a></div>
 
+ˋˋˋ
+<div><a href="https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Test%20Certificate&organizationId=1337&issueYear=2018
+&issueMonth=2&expirationYear=2020&expirationMonth=5&certUrl=
+https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fd365-functional-consultant-sales&certId=1234"><img src="https://download.linkedin.com/desktop/add2profile/buttons/en_US.png " alt="LinkedIn Add to Profile button"></a></div>
+ˋˋˋ
+
 https://addtoprofile.linkedin.com/
+
+- [Linked In Add To Profile Featura](LinkedInAddToProfileFeature_FAQs.md)
+
+- [Creat Your Certification Button](CreateYourCertificationButton.md)
 
 ## Processo Automatizado
 
